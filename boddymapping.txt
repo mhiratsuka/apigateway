@@ -1,0 +1,8 @@
+Content-Type
+application/json
+
+
+{
+    "numone": "$input.params('numone')",
+    "numtwo": "$input.params('numtwo')"
+}
